@@ -1,0 +1,10 @@
+# Entorno local y binarios pesados
+cloudflared.exe
+INICIAR_APP_Y_TUNEL.bat
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.venv/
+env/
+venv/
